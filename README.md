@@ -14,7 +14,7 @@ Grâce à __*Solidity*__ on peut developper une __Dapp__ qui intéragit avec la 
 
 La blockchain est une __base de donnée__ éternelle décentralisé.
 
-- Il toujours définir la version du compilateur par un `pragma solidity ^0.4.19`.
+- Il faut toujours définir la version du compilateur par un `pragma solidity ^0.4.19`.
 - Dans un fichier qui à pour extension `Contarct.sol`.
 - *Les variables d'états* sont stocker définitivement dans la blockchain.
 
